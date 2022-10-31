@@ -1,0 +1,14 @@
+
+
+
+Steps to run this project.
+
+1. Install Node.js ( v8.0)
+2. Go to UI project folder - savoury-bites 
+3. Open cmd prompt.
+4. Type "npm install" and press ENTER.
+5. Once angular packages are installed, exit cmd and reopen cmd.
+
+6. Go to back folder i.e. in MSC_Project folder.
+7. Run Project_Runner.bat file.
+		It initialises ElasticDB, UI and browser.
